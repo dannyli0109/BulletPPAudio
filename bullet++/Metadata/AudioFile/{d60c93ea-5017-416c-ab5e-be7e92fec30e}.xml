@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d60c93ea-5017-416c-ab5e-be7e92fec30e}">
+		<property name="assetPath">
+			<value>weapons/laser/laser Wavetable.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.7760208333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9e6bdf9e-bfae-4bd7-ad69-017ec799a7fe}</destination>
+		</relationship>
+	</object>
+</objects>

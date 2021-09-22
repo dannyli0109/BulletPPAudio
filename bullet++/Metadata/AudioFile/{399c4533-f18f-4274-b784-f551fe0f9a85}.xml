@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{399c4533-f18f-4274-b784-f551fe0f9a85}">
+		<property name="assetPath">
+			<value>foot steps/foot steps tail-010.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.3808125</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9e6bdf9e-bfae-4bd7-ad69-017ec799a7fe}</destination>
+		</relationship>
+	</object>
+</objects>

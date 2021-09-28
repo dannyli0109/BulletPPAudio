@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.01.00">
+<objects serializationModel="Studio.02.02.00">
 	<object class="ParameterPreset" id="{e5001a6a-fcf3-499d-936b-f9621b52d6b8}">
 		<property name="name">
-			<value>enemys</value>
+			<value>life</value>
 		</property>
 		<relationship name="folder">
 			<destination>{5671128a-bdfb-401d-96bf-cb60f49a7eee}</destination>

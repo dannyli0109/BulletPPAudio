@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d39213fd-8022-4af8-bebf-f8a221f14fc2}">
+		<property name="name">
+			<value>grenade</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5671128a-bdfb-401d-96bf-cb60f49a7eee}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a2f4322d-c19a-4dfc-a666-597a66532fae}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a2f4322d-c19a-4dfc-a666-597a66532fae}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

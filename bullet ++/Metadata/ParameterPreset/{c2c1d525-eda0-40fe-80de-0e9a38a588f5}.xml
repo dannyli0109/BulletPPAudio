@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="ParameterPreset" id="{c2c1d525-eda0-40fe-80de-0e9a38a588f5}">
 		<property name="name">
-			<value>laser</value>
+			<value>piercing</value>
 		</property>
 		<relationship name="folder">
 			<destination>{5671128a-bdfb-401d-96bf-cb60f49a7eee}</destination>
@@ -13,7 +13,7 @@
 	</object>
 	<object class="GameParameter" id="{39b8b2f0-7e6e-42d3-970f-8ccfcf687624}">
 		<property name="maximum">
-			<value>2</value>
+			<value>3.5</value>
 		</property>
 		<property name="initialValue">
 			<value>0</value>

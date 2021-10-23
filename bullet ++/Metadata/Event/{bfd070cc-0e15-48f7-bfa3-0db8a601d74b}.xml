@@ -50,7 +50,7 @@
 	</object>
 	<object class="MasterTrack" id="{d04d8770-baf5-44f9-afec-f6a03636eb20}">
 		<relationship name="automationTracks">
-			<destination>{28bb442c-b596-4785-b8e2-6a4a0349bdbb}</destination>
+			<destination>{95ff9009-6990-466f-8236-94437ca29637}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{0143c8c1-c2bc-4284-8ee3-290ec306b4d2}</destination>
@@ -148,7 +148,7 @@
 			<destination>{2608dd06-7426-4dc0-8938-a6a89cefa66a}</destination>
 		</relationship>
 	</object>
-	<object class="AutomationTrack" id="{28bb442c-b596-4785-b8e2-6a4a0349bdbb}">
+	<object class="AutomationTrack" id="{95ff9009-6990-466f-8236-94437ca29637}">
 		<relationship name="automator">
 			<destination>{f6a62cee-6a43-4f17-920e-a0ef16e93748}</destination>
 		</relationship>
@@ -172,7 +172,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{0392f5f2-3cba-4130-bf22-c9fe0e913389}">
 		<property name="volume">
-			<value>-8</value>
+			<value>-5.5</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -437,7 +437,7 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>-18</value>
+			<value>-16</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{0fdb85d8-4bce-417c-9d0d-21ab6ea80c8c}">

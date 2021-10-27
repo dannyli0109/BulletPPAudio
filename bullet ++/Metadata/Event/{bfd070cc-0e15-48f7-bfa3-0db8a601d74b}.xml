@@ -310,9 +310,6 @@
 		<property name="length">
 			<value>22.962962962962962</value>
 		</property>
-		<property name="playlistMode">
-			<value>1</value>
-		</property>
 		<relationship name="sounds">
 			<destination>{892e6f70-81ab-4153-a5e2-7fa2643174e0}</destination>
 			<destination>{45d2a6da-b016-4322-ad9e-09abeeb4cdc9}</destination>
@@ -321,7 +318,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{291e8fe0-f3f4-4828-899c-03104373a351}">
 		<property name="volume">
-			<value>-11</value>
+			<value>-16.5</value>
 		</property>
 		<property name="name">
 			<value>Audio 5</value>
@@ -354,7 +351,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{39b28fe8-d801-4cb7-bc03-0bdfd1e1b9be}">
 		<property name="volume">
-			<value>-18.5</value>
+			<value>-24.5</value>
 		</property>
 		<property name="name">
 			<value>Audio 6</value>

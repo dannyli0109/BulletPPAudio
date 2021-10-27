@@ -194,6 +194,7 @@
 		<relationship name="effects">
 			<destination>{7e136453-2620-40a5-96a2-cbb09f0c5524}</destination>
 			<destination>{b8ec7917-533e-4517-90a8-a48dd577e384}</destination>
+			<destination>{53d5e624-c3c6-4eb4-ace6-3194d8f75252}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{abc95cd1-a49f-4dc2-9dd7-208cd20a8078}" />
@@ -303,6 +304,14 @@
 	<object class="MixerBusPanner" id="{e75f59eb-18a0-4d37-b036-85d221c5759c}" />
 	<object class="MixerBusFader" id="{7e136453-2620-40a5-96a2-cbb09f0c5524}" />
 	<object class="SpatialiserEffect" id="{b8ec7917-533e-4517-90a8-a48dd577e384}" />
+	<object class="SFXReverbEffect" id="{53d5e624-c3c6-4eb4-ace6-3194d8f75252}">
+		<property name="decayTime">
+			<value>2500</value>
+		</property>
+		<property name="wetLevel">
+			<value>-18.5</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{5ec9fe72-5b9b-46e6-91e3-d033866bb94a}" />
 	<object class="MixerBusFader" id="{6ba95e80-172d-4718-ad1b-adca4f69b542}" />
 	<object class="ThreeEQEffect" id="{c243f710-a504-43c6-852c-0fc0a68cb303}">

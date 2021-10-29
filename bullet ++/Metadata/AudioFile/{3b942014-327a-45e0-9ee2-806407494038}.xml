@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.01.00">
+<objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{3b942014-327a-45e0-9ee2-806407494038}">
 		<property name="assetPath">
 			<value>atmos/b++ atmos-001.wav</value>

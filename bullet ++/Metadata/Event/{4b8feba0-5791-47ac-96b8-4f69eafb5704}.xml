@@ -383,6 +383,7 @@
 		<property name="start">
 			<value>1</value>
 		</property>
+		<property name="name" />
 		<relationship name="event">
 			<destination>{e26af96c-29c1-4b2d-8591-0903e750740f}</destination>
 		</relationship>
@@ -540,9 +541,9 @@
 			<value>6</value>
 		</property>
 		<relationship name="sounds">
-			<destination>{b0ff4e35-13dd-4927-b74a-7706276f1d73}</destination>
-			<destination>{2f681d95-3a9e-45e9-83ff-0b46912eba4e}</destination>
-			<destination>{ada3bcf7-e989-483e-8f41-1a01a3df915a}</destination>
+			<destination>{d20badf9-b420-4efd-9c0a-b04a5b390bbc}</destination>
+			<destination>{8e0d6a02-d96c-41c7-9029-53889d41d135}</destination>
+			<destination>{da58ea38-3b3c-4abc-bea9-2f42ef60c0f1}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{c513773b-0573-4ef9-8a54-aa6f6a080e29}">
@@ -566,7 +567,6 @@
 		<relationship name="effects">
 			<destination>{d540ae96-5ce1-4c12-bbb4-7aa270e457a3}</destination>
 			<destination>{9d547b41-1c10-4a5f-b788-2759fffc052e}</destination>
-			<destination>{ae73aa32-3790-4aee-9971-55230d82ecab}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{f321f182-70e0-46f9-9306-45fa91b0601e}" />
@@ -615,19 +615,19 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{da0608bd-c161-4779-a907-54fcaae187af}" />
-	<object class="SingleSound" id="{b0ff4e35-13dd-4927-b74a-7706276f1d73}">
+	<object class="SingleSound" id="{d20badf9-b420-4efd-9c0a-b04a5b390bbc}">
 		<relationship name="audioFile">
-			<destination>{f38db56a-af77-4f26-a9f2-a21ad4d6df79}</destination>
+			<destination>{2cef4aa4-6e09-4874-9026-bce32189719a}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{2f681d95-3a9e-45e9-83ff-0b46912eba4e}">
+	<object class="SingleSound" id="{8e0d6a02-d96c-41c7-9029-53889d41d135}">
 		<relationship name="audioFile">
-			<destination>{5751ad9a-cfcd-48de-9683-0038089b0770}</destination>
+			<destination>{dc83214d-da55-4880-a1c9-592e2a9dbcaf}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{ada3bcf7-e989-483e-8f41-1a01a3df915a}">
+	<object class="SingleSound" id="{da58ea38-3b3c-4abc-bea9-2f42ef60c0f1}">
 		<relationship name="audioFile">
-			<destination>{59424535-4501-4b84-8c19-1d2e82515b69}</destination>
+			<destination>{e145000a-3a03-45f1-a507-5232152711ad}</destination>
 		</relationship>
 	</object>
 	<object class="Automator" id="{1ea1a8f3-c2f1-45f2-bd1c-eed50c082ba6}">
@@ -649,14 +649,6 @@
 	<object class="MixerBusPanner" id="{db56e924-d10f-4ec2-b635-4ef5ebf0f555}" />
 	<object class="MixerBusFader" id="{d540ae96-5ce1-4c12-bbb4-7aa270e457a3}" />
 	<object class="SpatialiserEffect" id="{9d547b41-1c10-4a5f-b788-2759fffc052e}" />
-	<object class="SFXReverbEffect" id="{ae73aa32-3790-4aee-9971-55230d82ecab}">
-		<property name="decayTime">
-			<value>2500</value>
-		</property>
-		<property name="wetLevel">
-			<value>-18.5</value>
-		</property>
-	</object>
 	<object class="MixerBusFader" id="{f79bf364-9a53-4af2-97cd-eaf454c76b0c}" />
 	<object class="SFXReverbEffect" id="{41e45c13-d3ae-4bf4-8590-2b7affc9e260}">
 		<property name="decayTime">
